@@ -10,10 +10,10 @@
 - SUJEENDRA RAMESH
 - SWAPNIL PURANIK
 
-![Alt text](Custom Folder/Images/rv-1.png)
+![Alt text](Custom folder/Images/rv-1.png)
 
 <video width="320" height="240" controls>
-  <source src="Custom Folder/Images/Final_video.mp4" type="video/mp4">
+  <source src="Custom folder/Images/Final_video.mp4" type="video/mp4">
 </video>
 
   
