@@ -13,7 +13,7 @@
 ![Alt text](rv-1.png)
 
 <video width="320" height="240" controls>
-  <source src="Custom folder/Images/Final_video.mp4" type="video/mp4">
+  <source src="Final_video.mp4" type="video/mp4">
 </video>
 
   
